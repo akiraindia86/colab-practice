@@ -1,0 +1,110 @@
+[33mcommit b4146ad549ba9e5198717c773f8e159e22973214[m[33m ([m[1;36mHEAD -> [m[1;32mexxxtra[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 5901f50 58e8d30
+Author: Anuj Garg <anujgargcse@gmail.com>
+Date:   Wed Jul 4 13:05:13 2018 +0530
+
+    Merge pull request #19 from rajshubham1999/rajshubham1999
+    
+    Create rajshubham1999.md
+
+[33mcommit 5901f507e878312cee438fea4cd4b703fe085ad5[m
+Merge: bbbdeed 5198e0f
+Author: Anuj Garg <anujgargcse@gmail.com>
+Date:   Wed Jul 4 13:05:04 2018 +0530
+
+    Merge pull request #21 from Vazire/Vazire
+    
+    Create Vazire.md
+
+[33mcommit bbbdeede170a041f8175c06c8c1c7a948d166124[m
+Merge: a622aef ce7e412
+Author: Anuj Garg <anujgargcse@gmail.com>
+Date:   Wed Jul 4 12:45:32 2018 +0530
+
+    Merge pull request #11 from vaibhav-suri/vaibhav-suri
+    
+    Create vaibhav-suri.md
+
+[33mcommit a622aef35870e39ad56780610144b25f595e7c55[m
+Merge: d8d516d 278b984
+Author: Anuj Garg <anujgargcse@gmail.com>
+Date:   Wed Jul 4 12:45:04 2018 +0530
+
+    Merge pull request #12 from imthakur499/master
+    
+    Create imthakur499.md
+
+[33mcommit d8d516d28e97a92fdb9bd569986ed5db084b8356[m
+Merge: bffb902 dca6454
+Author: Anuj Garg <anujgargcse@gmail.com>
+Date:   Wed Jul 4 12:44:55 2018 +0530
+
+    Merge pull request #13 from tavishchadha/tavishchadha
+    
+    Create tavishdtu.md
+
+[33mcommit bffb902f361a4cf79991954119acdc6a1ac41a15[m
+Merge: 6773a8c b193b6b
+Author: Anuj Garg <anujgargcse@gmail.com>
+Date:   Wed Jul 4 12:44:48 2018 +0530
+
+    Merge pull request #14 from yash-pal/yash-pal
+    
+    Create yash-pal.md
+
+[33mcommit 6773a8c43b7c4e2160a9417df8b6db22b179ebbb[m
+Merge: c6adaa0 b07a7d1
+Author: Anuj Garg <anujgargcse@gmail.com>
+Date:   Wed Jul 4 12:44:12 2018 +0530
+
+    Merge pull request #15 from Vrittik/Vrittik
+    
+    Create Vrittik.md
+
+[33mcommit 58e8d30e981c4517540663fdc360ec03b833f58a[m
+Author: rajshubham1999 <40711280+rajshubham1999@users.noreply.github.com>
+Date:   Wed Jul 4 00:10:54 2018 -0700
+
+    Create rajshubham1999.md
+
+[33mcommit 5198e0f48f28120fc1fa69ab11268e35e8d46f51[m
+Author: Vazire <40232447+Vazire@users.noreply.github.com>
+Date:   Wed Jul 4 12:40:37 2018 +0530
+
+    Create Vazire.md
+
+[33mcommit 278b98494ac6317219edbb4fee73563d179a6867[m
+Author: imthakur499 <40750845+imthakur499@users.noreply.github.com>
+Date:   Wed Jul 4 12:35:49 2018 +0530
+
+    Create imthakur499.md
+
+[33mcommit dca645426b1f66ebfc8b30fd4a0e923b517aa071[m
+Author: tavishchadha <34217696+tavishchadha@users.noreply.github.com>
+Date:   Wed Jul 4 12:33:06 2018 +0530
+
+    Create tavishdtu.md
+
+[33mcommit b07a7d12fde7cf5eea471d8c51448a9b2eb3ad29[m
+Author: Vrittik <40815682+Vrittik@users.noreply.github.com>
+Date:   Wed Jul 4 12:32:54 2018 +0530
+
+    Create Vrittik.md
+
+[33mcommit ce7e412c8e48568cc00a418b8d4bcd36cab4166c[m
+Author: vaibhav-suri <40815703+vaibhav-suri@users.noreply.github.com>
+Date:   Wed Jul 4 12:32:52 2018 +0530
+
+    Create vaibhav-suri.md
+
+[33mcommit b193b6b00945358a67f7f980e64f1df48ec8b2d8[m
+Author: Yash Pal <39944147+yash-pal@users.noreply.github.com>
+Date:   Wed Jul 4 12:32:51 2018 +0530
+
+    Create yash-pal.md
+
+[33mcommit c6adaa0854cf3627dae71d63f0813a5cf6479996[m
+Author: Anuj Garg <anujgargcse@gmail.com>
+Date:   Wed Jul 4 12:04:18 2018 +0530
+
+    Initial commit
